@@ -4,7 +4,9 @@
 
 
 ![Image of Yaktocat](https://github.com/gndx/100tifi.co/raw/master/screenshot.png)
-DEMO: https://100tifi.co
+
+# DEMO
+[https://100tifi.co](https://100tifi.co)
 
 # Install Dependencies
 ```
