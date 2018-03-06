@@ -1,0 +1,7 @@
+{
+  "name": "100tifi.co",
+  "description": "A Node.js app using React, Redux, NextJS, Express",
+  "repository": "https://github.com/gndx/100tifi.co",
+  "logo": "http://s3.amazonaws.com/chewiekie/img/logo-100tifico.png",
+  "keywords": ["node", "express", "react", "nextjs", "redux", "stylus"]
+}
